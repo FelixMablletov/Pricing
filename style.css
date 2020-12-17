@@ -23,3 +23,12 @@ header nav ul {
 #Header__Margin{
     margin: 0 auto;
 }
+#Header__MainLink{
+    font-size: 1.25rem;
+}
+#Header__SignUp{
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 8px 12px;
+    color: #007bff;
+}
